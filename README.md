@@ -7,8 +7,8 @@ I have made three projects for the internship
 
 ### About the Company
 
-OASIS INFOBYTE is a community of diverse people coming together with similar objectives and ultimate goals. 
-OASIS INFOBYTE is all about creating opportunities for leadership development, learning, student engagement, and fostering of shared interests. We develop enriching environments and experiences that promote students' knowledge and wellbeing.
+**OASIS INFOBYTE** is a community of diverse people coming together with similar objectives and ultimate goals. 
+**OASIS INFOBYTE** is all about creating opportunities for leadership development, learning, student engagement, and fostering of shared interests. We develop enriching environments and experiences that promote students' knowledge and wellbeing.
 
 ### Car Price Prediction
 
@@ -22,3 +22,10 @@ messages, scams, or most dangerously, phishing content.
 
 In this Project, I have used **Python** to build an email spam detector. Then, use machine learning to
 train the spam detector to recognize and classify emails into spam and non-spam.
+
+### Unemployment Analysis
+
+Unemployment is measured by the unemployment rate which is the number of people
+who are unemployed as a percentage of the total labour force. We have seen a sharp
+increase in the unemployment rate during Covid-19, so analyzing the unemployment rate
+can be a good data science project. I have made **Unemployment analysis project** using python and machine learning model
