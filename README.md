@@ -1,9 +1,9 @@
 # OIBSIP
 This is the repository of Oasis Infobyte. I have uploaded my project here as I am a Data Science intern at this company
 I have made three projects for the internship
-a) Car Price Prediction
-b) Spam Email Detection
-c) Unemployment Analysis
+- Car Price Prediction
+- Spam Email Detection
+- Unemployment Analysis
 
 ### About the Company
 
